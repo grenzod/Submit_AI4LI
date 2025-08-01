@@ -1,0 +1,9 @@
+.env
+Hand_LandMarks/Data
+Hand_LandMarks/train.ipynb
+Voice/base/whisper-small
+Voice/models
+Voice/__pycache__
+Voice/base/__pycache__
+Speech/__pycache__
+Hand_LandMarks/__pycache__

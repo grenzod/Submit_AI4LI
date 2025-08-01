@@ -7,3 +7,4 @@ Voice/__pycache__
 Voice/base/__pycache__
 Speech/__pycache__
 Hand_LandMarks/__pycache__
+.gitignore
